@@ -56,7 +56,7 @@ Usage
 ![usageimg2.JPG](https://raw.githubusercontent.com/SachinDas246/Scaffold-for-Threejs/main/tutorial%20files/usageimg2.JPG)
 
 - Addition to these functions you can also make a function call at the instant only when key is pressed similar to javascript EventListener. For that use 'Add_to_DownScan()' for calling during key going down and  'Add_to_UpScan()' for calling during releasing. To do this write the function and use Add_to_DownScan(key,function) or Add_to_UpScan(key,function) , where char is the key to be checked and function is function to be called.
-- ![usageimg2.JPG](https://raw.githubusercontent.com/SachinDas246/Scaffold-for-Threejs/main/tutorial%20files/usageimg2.JPG)
+- ![usageimg3.JPG](https://raw.githubusercontent.com/SachinDas246/Scaffold-for-Threejs/main/tutorial%20files/usageimg3.JPG)
 - In case,  in between if you want to remove a function just call "Remove_from_DownScan(char,fun)" or "Remove_from_UpScan(char,fun)"
 
 thank you for using by repo, also this not fully developed project and there can be bugs or improvements can be made ,please share those ideas,😃
