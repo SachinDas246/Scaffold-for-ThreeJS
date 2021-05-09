@@ -29,6 +29,14 @@ function updatecam()
 
 }
 
+function show_info()
+{
+    console.log(cube)
+}
+
+Add_to_DownScan('i',show_info);
+
+
 Add_to_Logic_Function(Update_cube);
 Add_to_Logic_Function(updatecam);
 

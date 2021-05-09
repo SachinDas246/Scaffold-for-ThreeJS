@@ -19,6 +19,7 @@ document.addEventListener('keydown', function(eventdown) {
     {
         KeyArray.push(eventdown.key)
         
+        
     }
     if(KeyIsDownArray.indexOf(eventdown.key) ==-1)
     {
